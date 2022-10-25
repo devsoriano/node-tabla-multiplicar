@@ -19,13 +19,13 @@ _Ejecutar dentro del proyecto:_
 npm install
 ```
 
-_Para probar el funcionamiento en consola_
+_Para probar el funcionamiento en consola:_
 
 ```
  node app -b 512 -l -h 250
 ```
 
-_o sin listado_
+_o sin listado:_
 
 ```
  node app -b 512 -h 250
