@@ -19,6 +19,8 @@ _Ejecutar dentro del proyecto:_
 npm install
 ```
 
+### Funcionamiento 🚀
+
 _Para probar el funcionamiento en consola:_
 
 ```
