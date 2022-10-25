@@ -10,3 +10,23 @@ Options:
   -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
   -h, --hasta    Límite de la tabla de multiplicar (hasta)[number] [default: 10]
 ```
+
+### Instalación 🔧
+
+_Ejecutar dentro del proyecto:_
+
+```
+npm install
+```
+
+_Para probar el funcionamiento en consola_
+
+```
+ node app -b 512 -l -h 250
+```
+
+_o sin listado_
+
+```
+ node app -b 512 -h 250
+```
